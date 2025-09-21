@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mks707146.github.io/Vector_classes_mks/sitemap.xml
